@@ -24,7 +24,7 @@
  
  1️ Clone the Repository  
  
- git clone https://github.com/your-repo-link.git
+ git clone https://github.com/yawarrasul1/FullStackExamYawar20-4-2025
  
  
  2️ Backend Setup
