@@ -28,6 +28,7 @@
  
  
  2️ Backend Setup
+ UNZIP both the folders
  Go to the backend folder
    npm install  
    Create a .env file in the backend folder
